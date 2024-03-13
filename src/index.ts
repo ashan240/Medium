@@ -26,3 +26,5 @@ app.put("/api/v1/blog", (c) => {
 });
 
 export default app;
+//postgresql://ashanraj24:odJQGsax69Eq@ep-little-waterfall-a5sofg08.us-east-2.aws.neon.tech/medium?sslmode=require
+//DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiYzVmNTA3M2EtYTYzYS00NjZmLThlYmItZjEzMjA3ODFkYWJmIiwidGVuYW50X2lkIjoiYWFkMjFiZmZkZDU0NDJiNjI4MTc5OTEwNjAxODA2NzQwYTM0YWJiMWU5ZjIwNWViOGFkZDU3YWVlMTU0ODU4NiIsImludGVybmFsX3NlY3JldCI6IjFiZWEwNTZmLWVkYTctNDcyNi1hOWIyLTNiYzU0YjkzYjQwYSJ9.ACOEzDzrbuV8oGfE9O61pzCJpTfxPNvgVXK7ds3T12s"
